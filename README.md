@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">A passionate Network and Cloud Solutions Engineer from Ghana</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 - 🔭 I’m currently working on [Docker Web Application](https://github.com/Amigo51/docker-web-app)
 
-- 🌱 I’m currently learning **aws cloud practitioner, CCNA 201-300**
+- 🌱 I’m currently learning ** CCNA 201-300, AWS DevOps Engineering**
 
-- 💬 Ask me about **aws cloud, networking, shell, git,javascript**
+- 💬 Ask me about **AWS Cloud, Networking, Shell, git, javascript, Linux**
 
 - 📫 How to reach me **sofori-amanfo002@st.ug.edu.gh**
 
-- ⚡ Fun fact **I enjoy movies**
+- ⚡ Fun fact **I enjoy movies and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

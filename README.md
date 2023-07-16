@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Network and Cloud Solutions Engineer from Ghana</h3>
 
 
-- 🔭 I’m currently working on [Docker Web Application](https://github.com/Amigo51/docker-web-app)
+- 🔭 I’m currently working on designing a wireless architecture solution for a small campus
 
-- 🌱 I’m currently learning ** CCNA 201-300, AWS DevOps Engineering**
+- 🌱 I’m currently learning ** CCNA 201-300, AWS DevOps Engineering, Server Administration**
 
 - 💬 Ask me about **AWS Cloud, Networking, Shell, git, javascript, Linux**
 
 - 📫 How to reach me **sofori-amanfo002@st.ug.edu.gh**
 
-- ⚡ Fun fact **I enjoy movies and video games**
+- ⚡ Fun fact **I enjoy movies and simulation video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

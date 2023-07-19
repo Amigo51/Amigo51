@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Seth</h1>
+<h1 align="center">Hi 👋, I'm Seth, a novice in Network Engineering. Working hard to be one of the experts in Network Security</h1>
 <h3 align="center">A passionate Network and Cloud Solutions Engineer from Ghana</h3>
 
 

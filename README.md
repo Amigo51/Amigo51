@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Seth, a novice in Network Engineering. Working hard to be one of the experts in Network Security</h1>
-<h3 align="center">A passionate Network and Cloud Solutions Engineer from Ghana</h3>
+<h3 align="center">Network Engineer | Computer Systems Enthusiast | Gamer</h3>
 
 
-- 🔭 I’m currently working on designing a wireless architecture solution for a small campus
+- 🔭 I’m currently learning to acquire my CCNA Certification
 
-- 🌱 I’m currently learning ** CCNA 201-300, AWS DevOps Engineering, Server Administration**
+- 🌱 I’m learning a new technology everyday**
 
-- 💬 Ask me about **AWS Cloud, Networking, Shell, git, javascript, Linux**
+- 💬 Looking to collaborate with other network engineers on solutions to network and security problems**
 
-- 📫 How to reach me **sofori-amanfo002@st.ug.edu.gh**
+- 📫 How to reach me **seth.oamanfo@gmail.com**
 
-- ⚡ Fun fact **I enjoy movies and simulation video games**
+- ⚡ Fun fact **I enjoy movies, simulation video games and disassembling hardware devices **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

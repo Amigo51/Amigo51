@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a passionate IT enthusiast with love for complex problem solving, coding and open-source collaboration</h1>
-<h3 align="center">Network Engineer | Computer Systems Enthusiast | Gamer</h3>
+<h1 align="center">Hi 👋, I'm Seth, a passionate software engineer with love for complex problem solving, coding and open-source collaboration</h1>
+<h3 align="center">Software Engineer |  | Gamer</h3>
 
 
 - 🔭 I’m currently studying networking to get my CCNA
 
 - 🌱 I’m open to learning new technologies everyday**
 
-- 💬 Available  to collaborate with other IT enthusiast on finding solutions to our physical world via software**
+- 💬 Available  to collaborate with other software engineers on finding solutions to our physical world via software applications**
 
 - 📫 How to reach me **seth.oamanfo@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 💬 Available  to collaborate with other software engineers on finding solutions to our physical world via software applications**
 
-- 📫 How to reach me **seth.oamanfo@gmail.com**
+- 📫 How to reach me **Email: sofori-amanfo002@st.ug.edu.gh**
 
 - ⚡ Fun fact **I enjoy movies, simulation video games and disassembling hardware devices **
 

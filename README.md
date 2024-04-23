@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a novice in Network Engineering. Working hard to be one of the experts in Network Security</h1>
+<h1 align="center">Hi 👋, I'm Seth, a passionate IT enthusiast with love for complex problem solving, coding and open-source collaboration</h1>
 <h3 align="center">Network Engineer | Computer Systems Enthusiast | Gamer</h3>
 
 
-- 🔭 I’m currently learning to acquire my CCNA Certification
+- 🔭 I’m currently studying networking to get my CCNA
 
-- 🌱 I’m learning a new technology everyday**
+- 🌱 I’m open to learning new technologies everyday**
 
-- 💬 Looking to collaborate with other network engineers on solutions to network and security problems**
+- 💬 Available  to collaborate with other IT enthusiast on finding solutions to our physical world via software**
 
 - 📫 How to reach me **seth.oamanfo@gmail.com**
 

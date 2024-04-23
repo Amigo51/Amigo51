@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a passionate software engineer with love for complex problem solving, coding and open-source collaboration</h1>
-<h3 align="center">Software Engineer |  | Gamer</h3>
+<h1 align="center">Hi 👋, I'm Seth, a passionate network engineer with love for complex problem solving, coding and open-source collaboration</h1>
+<h3 align="center">Network Engineer | Movies | Gamer</h3>
 
 
 - 🔭 I’m currently studying networking to get my CCNA

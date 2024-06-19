@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a passionate IT Support Engineer with love for complex problem solving, coding and open-source collaboration</h1>
+<h1 align="center">Hi 👋, I'm Seth, a passionate IT technical support engineer with over 4 years experience providing roust software and hardware support.I enjoy solving complex technical problems and researching into new emerging technologies</h1>
 <h3 align="center">Network Engineer | Movies | Gamer</h3>
 
 

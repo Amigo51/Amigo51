@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a passionate network engineer with love for complex problem solving, coding and open-source collaboration</h1>
+<h1 align="center">Hi 👋, I'm Seth, a passionate IT Support Engineer with love for complex problem solving, coding and open-source collaboration</h1>
 <h3 align="center">Network Engineer | Movies | Gamer</h3>
 
 
 - 🔭 I’m currently studying networking to get my CCNA
 
-- 🌱 I’m open to learning new technologies everyday**
+- 🌱 I’m open to learning new technologies everyday
 
 - 💬 Available  to collaborate with other software engineers on finding solutions to our physical world via software applications**
 
-- 📫 How to reach me **Email: sofori-amanfo002@st.ug.edu.gh**
+- 📫 How to reach me **Email: seth.o**
 
 - ⚡ Fun fact **I enjoy movies, simulation video games and disassembling hardware devices **
 

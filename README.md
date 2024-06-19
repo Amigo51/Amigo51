@@ -7,9 +7,9 @@
 
 - 🌱 I’m open to learning new technologies everyday
 
-- 💬 Available  to collaborate with other software engineers on finding solutions to our physical world via software applications**
+- 💬 Available  to collaborate with other engineers on finding solutions to our physical world via technological applications**
 
-- 📫 How to reach me **Email: seth.o**
+- 📫 How to reach me **Email: seth.oamanfo@gmail.com**
 
 - ⚡ Fun fact **I enjoy movies, simulation video games and disassembling hardware devices **
 

@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Seth, a passionate IT technical support engineer with over 4 years experience providing robust software and hardware support.I enjoy solving complex technical problems and researching into new emerging technologies</h1>
-<h3 align="center">Network Engineer | Movies | Gamer</h3>
+<h1 align="center">Hi 👋, I'm Seth, an enthusiast in the field of IT with over 4 years experience in IT Technical Support providing robust software and hardware support.I enjoy solving complex technical problems and researching into new emerging technologies</h1>
+<h3 align="center">Software Engineer| Network Engineer | Movies | Gamer</h3>
 
 
-- 🔭 I’m currently studying networking to get my CCNA
+- 🔭 I’m currently studying HTML/CSS, Javascript, PHPSql, Cloud Technologies and CCNA
 
 - 🌱 I’m open to learning new technologies everyday
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Email: seth.oamanfo@gmail.com**
 
-- ⚡ Fun fact **I enjoy movies, simulation video games and disassembling hardware devices **
+- ⚡ Fun fact **I enjoy movies, simulation video games, coding and disassembling hardware devices **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
